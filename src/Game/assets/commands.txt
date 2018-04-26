@@ -1,0 +1,21 @@
+help - displays this list of commands and their descriptions
+roll - rolls the dice for the current player
+secret - uses the secret entrance of a room if there is one
+cheat - show all cards in the murder envelope
+
+Move commands:
+u - move up
+d - move down
+l - move left
+r - move right
+You can input the move commands in a single line, separating . 
+e.g. "u u w r r d d l" = "u" "u" "w" "r" "r" "d" "d" "l"
+
+After a move/set of moves:
+reset - resets the player's position
+log - shows the game log
+question - allows player to ask about a suspect, weapon and current room they're in
+done - ends current player's
+quit - ends game
+
+Note: You will be informed when certain commands are available.
